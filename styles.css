@@ -1,0 +1,72 @@
+@import url(https://fonts.bunny.net/css?family=albert-sans:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
+
+.maintext{
+    text-decoration: underline;
+}
+
+body {
+    font-family: 'Albert Sans', sans-serif;
+    font-variant: normal;
+}
+
+div{
+    width: 100%;
+   
+}
+
+
+/*.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+   
+}
+    */
+
+.divcntr{
+
+margin: auto;
+text-align: center;
+
+}
+
+#piratebar {
+    width: 20%;
+    height: 25px;
+    
+
+}
+#spirte{
+
+width: 100%;
+height: 100%;
+
+}
+
+.nav02{
+
+    font-size: 12px;
+}
+
+#headbg01{
+    background: fixed;
+    background-position: center;
+    background-image: url(./images/IMG_5527.JPG);
+    height: 300px;
+    vertical-align: middle;
+    line-height: 300px;
+}
+
+.navhead{
+
+    font-size: 25px;
+    color: antiquewhite;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    color: antiquewhite;
+text-decoration: none;
+}
